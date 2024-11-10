@@ -7,3 +7,4 @@ This algorithm is used to calculate what points are nearby to the current point,
 
 ![final product](https://user-images.githubusercontent.com/113709937/205171298-ede14eb8-51ea-403c-b8aa-7b773ae62d73.png)
 
+ 
